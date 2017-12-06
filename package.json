@@ -1,6 +1,6 @@
 {
   "name": "ai-encode",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Encode a String async iterable into a Buffer async iterable.",
   "repository": "parro-it/ai-encode",
   "author": "Andrea Parodi <andrea@parro.it>",
