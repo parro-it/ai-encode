@@ -1,4 +1,4 @@
-export default async function $package_var(data) {
+export default async function aiEncode(data) {
   for (const item of data) {
     await item;
   }
